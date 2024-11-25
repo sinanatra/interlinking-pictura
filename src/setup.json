@@ -2,7 +2,7 @@
     "title": "ReFa Reader",
     "api": "",
     "local": "db.json",
-    "url": "https://uclab.fh-potsdam.de/refa-catalog/api",
+    "url": "http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/",
     "paths": {
         "title": "o:title",
         "img": ["thumbnail_display_urls", "large"],
