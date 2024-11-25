@@ -1,0 +1,22 @@
+{
+    "title": "ReFa Reader",
+    "api": "",
+    "local": "db.json",
+    "url": "https://uclab.fh-potsdam.de/refa-catalog/api",
+    "paths": {
+        "title": "o:title",
+        "img": ["thumbnail_display_urls", "large"],
+        "property": ""
+    },
+    "publicSite": "",
+    "languages": [
+        "en"
+    ],
+    "description": {
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing. Sed vel augue viverra, suscipit nisi sagittis, molestie neque."
+    },
+    "batch": 30,
+    "mainCategories": [],
+    "descriptionSeo": "Lorem ipsum dolor sit amet.",
+    "imageSeo": ""
+}
