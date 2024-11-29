@@ -1,11 +1,15 @@
 {
-    "title": "ReFa Reader",
+    "title": "Interlinking Pictura",
     "api": "",
-    "local": "db.json",
-    "url": "http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/",
+    "local": "interlinking_db.json",
+    "url": [
+        "http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/"
+    ],
     "paths": {
         "title": "o:title",
-        "img": ["thumbnail_display_urls", "large"],
+        "img": [
+            "http://semantic-mediawiki.org/swivt/1.0#file"
+        ],
         "property": ""
     },
     "publicSite": "",
@@ -13,7 +17,7 @@
         "en"
     ],
     "description": {
-        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing. Sed vel augue viverra, suscipit nisi sagittis, molestie neque."
+        "en": ""
     },
     "batch": 30,
     "mainCategories": [],
