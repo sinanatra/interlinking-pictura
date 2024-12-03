@@ -1,7 +1,7 @@
 ---
 title: Der Elephant
-date: "1801"
-color: "#941123"
+date: "1801-00-00"
+color: "red"
 author: Friedrich Justin Bertuch
 isPublic: true
 lang: de
