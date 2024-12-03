@@ -6,7 +6,7 @@ author: Friedrich Justin Bertuch
 isPublic: true
 lang: de
 description: "Vierf. Thiere. I. B. I. No. 1. VIERFÜSSIGE THIERE aus heissen Ländern. No. 1. Der Elephant. (Elephas maximus.)"
-cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_01_003b.jpg"
+cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_08_059a.jpg"
 ---
 No. 1. Der Elephant. 
 (Elephas maximus.)
