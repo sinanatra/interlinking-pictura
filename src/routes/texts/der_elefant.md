@@ -1,6 +1,5 @@
-
 ---
-title: Der Elefant.
+title: Elefant.
 date: "2023-12-03"
 color: "blue"
 author: Giacomo Nanni
