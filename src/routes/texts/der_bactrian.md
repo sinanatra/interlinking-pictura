@@ -1,7 +1,7 @@
 ---
-title: Der Bactrian, oder das zweybuckligte Kameel. 
+title: Der Bactrian, oder das zweybuckligte Kameel 
 date: "1801"
-color: "#941123"
+color: "#8b4d5b"
 author: Friedrich Justin Bertuch
 isPublic: true
 lang: en
