@@ -14,7 +14,7 @@ cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_01_003b.jpg"
 No. 1. [Der Elephant](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd00341_01_003b_bg.jpg). 
 (Elephas maximus.)
 
-Der Elephant ist das grösste unter allen Land-Thieren, 10 bis 14 Fuss hoch und 16 1/2 Fuss lang. Er lebt beynahe 200 Jahre; ist noch gelehriger als ein Pferd, treu wie ein Hund, und so geschickt wie ein
+Der [Elephant](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Ad00341_01_003b) ist das grösste unter allen Land-Thieren, 10 bis 14 Fuss hoch und 16 1/2 Fuss lang. Er lebt beynahe 200 Jahre; ist noch gelehriger als ein Pferd, treu wie ein Hund, und so geschickt wie ein
 Affe; denn mit seinem Rüssel, der ihm die Stelle des Arms und der Hand vertritt, hebt er die schwersten Lasten auf, und bedient sich seiner zur Vertheidigung. Mit dem daran befindlichen Finger fühlt er,
 knüpft die Knoten auf, womit man ihn anbindet, drehet Schlüssel um, schiebt Riegel auf und zu, hebt die kleinste Münze von der Erde auf, und bringt sich Fressen und Sauffen damit in das Maul. Der Elephant
 lebt nur in den heissesten Ländern von Afrika und Asien, in grossen schattigten Wäldern, gesellschaftlich in Heerden von mehr als 100 bis 1000 Stücken. Seine Nahrung besteht in jungen Bäumen, Aesten und
