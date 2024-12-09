@@ -6,7 +6,7 @@ author: Friedrich Justin Bertuch
 isPublic: true
 lang: en
 description: "Vierf. Thiere. I. B. I. No. 1. VIERFÜSSIGE THIERE aus heissen Ländern. No. 2. Der Bactrian, oder das zweybuckligte Kameel. (Camelus Bactrianus.)"
-cover: "https://upload.wikimedia.org/wikipedia/commons/8/81/Schillerschule_Ffm.jpg"
+cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_01_003c.jpg"
 ---
 
 No. 2. Der Bactrian, oder das zweybuckligte Kameel. (Camelus Bactrianus.)
