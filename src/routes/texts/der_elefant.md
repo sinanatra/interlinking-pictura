@@ -11,7 +11,7 @@ No. 1. Der Elephant. (Elephas maximus.)"
 cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_01_003b.jpg"
 ---
 
-No. 1. Der Elephant. 
+No. 1. [Der Elephant](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd00341_01_003b_bg.jpg). 
 (Elephas maximus.)
 
 Der Elephant ist das grösste unter allen Land-Thieren, 10 bis 14 Fuss hoch und 16 1/2 Fuss lang. Er lebt beynahe 200 Jahre; ist noch gelehriger als ein Pferd, treu wie ein Hund, und so geschickt wie ein
