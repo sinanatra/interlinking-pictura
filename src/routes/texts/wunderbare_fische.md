@@ -1,7 +1,7 @@
 ---
 title: Wunderbare Fische
 date: "1801"
-color: "blue"
+color: "#d1a29e"
 author: Friedrich Justin Bertuch
 isPublic: true
 lang: en
