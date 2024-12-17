@@ -13,7 +13,6 @@
 	{/if}
 	<div>
 		<img src="logo1.png" />
-		<img src="logo2.jpg" />
 	</div>
 </header>
 
