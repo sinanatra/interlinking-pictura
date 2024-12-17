@@ -11,16 +11,32 @@
 			{description[lang]}
 		</h3>
 	{/if}
+	<div>
+		<img src="logo1.png" />
+		<img src="logo2.jpg" />
+	</div>
 </header>
 
 <style>
+	div {
+		margin-top: 20px;
+		display: flex;
+		gap: 10px;
+	}
+	
+	img {
+		max-width: 100px;
+		height: fit-content;
+		mix-blend-mode: multiply;
+	}
+	
 	header {
 		padding: 10px;
 		flex: 0 0 380px;
 		background-color: #efefef;
 	}
 
-	h1{
+	h1 {
 		min-height: 150px;
 		font-size: 30px;
 		line-height: 30px;
