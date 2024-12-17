@@ -8,7 +8,7 @@
 	<h1>{title}</h1>
 	{#if description[lang]}
 		<h3>
-			{description[lang]}
+			{@html description[lang]}
 		</h3>
 	{/if}
 	<div>
@@ -46,7 +46,7 @@
 
 	h3 {
 		font-weight: 400;
-		font-size: 1.2rem;
+		font-size: 1rem;
 	}
 	span {
 		color: blue;
