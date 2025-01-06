@@ -1,7 +1,7 @@
 ---
 title: Papageyen
 date: "1801-01-01"
-color: "red"
+color: "#EB6A27"
 author: Friedrich Justin Bertuch
 isPublic: true
 lang: en
