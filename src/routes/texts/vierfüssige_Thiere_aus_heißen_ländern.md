@@ -1,6 +1,6 @@
 ---
 title: VIERFÜSSIGE THIERE aus heißen Ländern.
-date: "1801"
+date: "1801-01-01"
 color: "#680a1e"
 author: Friedrich Justin Bertuch
 isPublic: true

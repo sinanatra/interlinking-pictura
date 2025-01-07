@@ -1,6 +1,6 @@
 ---
 title: Die sieben Wunder der Welt 
-date: "1801"
+date: "1801-01-01"
 color: "#8b4d5b"
 author: Friedrich Justin Bertuch
 isPublic: true
