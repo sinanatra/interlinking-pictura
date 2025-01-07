@@ -7,11 +7,12 @@ on:
         description: 'Manually run workflow'
         required: true
   push:
-    branches: 
-    - main
+    branches:
+      - main
+
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Repository
@@ -23,16 +24,7 @@ jobs:
     - name: Install Dependencies
       run: npm install
 
-    - name: Build 
-      run: |
-        npm run build
-        
-    - name: Deploy
-      run: |
-        REMOTE_URL=$(echo "https://git:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git")
-        git remote remove origin || true
-        git remote add origin "$REMOTE_URL"
-        git remote -v
-        npx gh-pages -d build -t true -u "github-actions-bot <support+actions@github.com>"
+    - name: Build and Deploy
+      run: npm run deploy
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
