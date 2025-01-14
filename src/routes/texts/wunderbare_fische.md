@@ -1,11 +1,11 @@
 ---
 title: Wunderbare Fische
-date: "1801-01-01"
+date: 1801
 color: "#d1a29e"
 author: Friedrich Justin Bertuch
 isPublic: true
 lang: en
-description: "Die Stachelkugel, der schwimmende Kopf, derThurmträger, der Schildkröten-Fisch und der gestreifte Stachelbauch."
+description: "Die Stachelkugel, der schwimmende Kopf, der Thurmträger, der Schildkröten-Fisch und der gestreifte Stachelbauch."
 cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_01_096b.jpg"
 ---
 [WUNDERBARE FISCHE](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd00341_01_096a.jpg)
