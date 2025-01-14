@@ -28,10 +28,10 @@ jobs:
       run: |
         npm run build
 
-    - name: Configure Git
+    - name: Configure Git (Default Identity)
       run: |
-        git config --global user.name "sinanatra"
-        git config --global user.email "gn.nanni@gmail.com"
+        git config --global user.name "${{ github.actor }}"
+        git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
     - name: Deploy
       run: npm run deploy
