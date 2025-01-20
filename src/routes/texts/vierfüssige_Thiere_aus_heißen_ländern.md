@@ -9,7 +9,7 @@ description: "Der Elephant, der Bactrian, das Rhinoceros, das Zebra, das Stachel
 cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_01_003b.jpg"
 ---
 
-Vierf. Thiere. I. B. I. [No. 1.](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd00341_01_003a.jpg)
+[Vierf. Thiere. I. B. I. No. 1.](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd00341_01_003a.jpg)
 [VIERFÜSSIGE THIERE](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd00341_01_003a01.jpg) aus heissen Ländern.
 
 No. 1. [Der Elephant. (Elephas maximus.)](http://interlinking.bbf.dipf.de/index.php/Special:URIResolver/Datei-3AAd00341_01_003b.jpg)
