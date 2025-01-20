@@ -133,4 +133,8 @@ body {
     .item-detail {
         font-size: 14px !important;
     }
+
+    header {
+        max-width: 60vw;
+    }
 }

@@ -177,8 +177,8 @@
 		<div class="date">
 			<div class="date">
 				{new Date(data.meta.date)?.toLocaleDateString(data.meta.lang, {
-					day: 'numeric',
-					month: 'long',
+					// day: 'numeric',
+					// month: 'long',
 					year: 'numeric'
 				})}
 			</div>

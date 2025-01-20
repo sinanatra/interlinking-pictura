@@ -91,7 +91,7 @@
 
 	@media only screen and (max-width: 800px) {
 		.columns {
-			flex-wrap: wrap;
+			/* flex-wrap: wrap; */
 		}
 	}
 </style>
