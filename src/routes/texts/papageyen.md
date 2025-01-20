@@ -5,7 +5,7 @@ color: "#4c4c4c"
 author: Friedrich Justin Bertuch
 isPublic: true
 lang: en
-description: "Papageyen der alten Welt und Papageyen der neuen Welt"
+description: "Papageyen der alten Welt und Papageyen der neuen Welt."
 cover: "https://interlinking.bbf.dipf.de/upload/Ad00341_01_018b.jpg"
 ---
 
