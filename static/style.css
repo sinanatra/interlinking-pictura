@@ -16,6 +16,7 @@ body {
     text-rendering: optimizeSpeed;
     -webkit-font-smoothing: antialiased;
     scroll-behavior: smooth;
+    hyphens: auto;
     /* overflow: scroll; */
 }
 
