@@ -1,5 +1,5 @@
 ---
-title: VIERFÜSSIGE THIERE aus heißen Ländern.
+title: Vierfüssige Thiere aus heißen Ländern
 date: "1801-01-01"
 color: "#680a1e"
 author: Friedrich Justin Bertuch
